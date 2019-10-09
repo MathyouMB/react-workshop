@@ -3,7 +3,7 @@
 
 
 ## Setup
-Install Node.js and yarn
+Install Node.js and yarn <br>
 https://nodejs.org/en/ <br>
 https://yarnpkg.com/lang/en/ <br>
 
@@ -11,7 +11,6 @@ Run
 ```
 yarn install
 yarn start
-
 ```
 
 
