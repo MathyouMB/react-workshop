@@ -1,7 +1,7 @@
 import React from 'react';
 import '../style/card.scss';
 
-function Card() {
+function Card(props) {
   return (
     <div className="card">
         <img className="card-image" src="https://www.w3schools.com/howto/img_avatar.png"></img>
