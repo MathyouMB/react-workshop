@@ -9,6 +9,9 @@ function Navbar(props) {
 
   return (
     <div style={navStyle} className="navbar">
+      <div className="nav-content">
+        <div className="nav-logo">P</div>
+      </div>
     </div>
   );
 }

@@ -3,3 +3,18 @@
     height:5em;
     margin:0em;
 }
+
+.nav-content{
+    display:flex;
+    justify-content:center;
+    height:100%;
+}
+
+.nav-logo{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    color:white;
+    font-size:4em;
+
+}

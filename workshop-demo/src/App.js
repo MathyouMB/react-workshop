@@ -6,7 +6,7 @@ import Card from './components/Card';
 function App() {
   return (
     <div className="app">
-      <Navbar bgColor="blue"/>
+      <Navbar bgColor="#0693e3"/>
       <div className="app-row-container">
         <Card/>
         <Card/>
