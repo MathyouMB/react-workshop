@@ -20,7 +20,7 @@ function APIPage() {
         const json = await response.json();
         console.log(json);  
         setData(json.message);
-        await setLoading(false);
+        setLoading(false);
     }
 
     return (
