@@ -5,6 +5,8 @@
 HTML Example - https://jsfiddle.net/MathyouMB/y0xgkc8j/5/<br>
 React Example - https://jsfiddle.net/MathyouMB/hyv8zx6m/12/<br>
 JS example - https://jsfiddle.net/MathyouMB/tuL3mbrz/17/<br>
+Card example - https://jsfiddle.net/MathyouMB/5Lfgd2sh/2/ <br>
+Style example - https://jsfiddle.net/MathyouMB/5Lfgd2sh/14/ <br>
 
 ## Setup
 Install Node.js and Yarn <br><br>
