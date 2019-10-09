@@ -4,8 +4,8 @@
 
 ## Setup
 Install Node.js and yarn
-https://nodejs.org/en/
-https://yarnpkg.com/lang/en/
+https://nodejs.org/en/ <br>
+https://yarnpkg.com/lang/en/ <br>
 
 Run
 ```
@@ -16,5 +16,5 @@ yarn start
 
 
 ## Further learning
-[Class Component Course](https://scrimba.com/g/glearnreact)
-[Functional Component Course](https://scrimba.com/g/greacthooks)
+[Class Component Course](https://scrimba.com/g/glearnreact) <br>
+[Functional Component Course](https://scrimba.com/g/greacthooks) <br>
