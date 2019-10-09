@@ -9,18 +9,19 @@ function CountPage() {
     setCount(count+=1);
   }
 
-
   return (
     
     <div className="count-page">
        <div>
           <h1>{count}</h1>
           
-          {(count>=10) ? (
-            <h2>Hit 10!</h2>
-          ):(
-            <></>
-          )}
+          {
+            (count>=10) ? (
+              <h2>Hit 10!</h2>
+            ):(
+              <></>
+            )
+          }
 
        </div>
        <div>

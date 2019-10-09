@@ -9,7 +9,6 @@ function CountPage() {
     setCount(count+=1);
   }
 
-
   return (
     
     <div className="count-page">
