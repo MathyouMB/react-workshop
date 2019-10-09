@@ -10,24 +10,24 @@ function CountPage() {
   }
 
   return (
-    
+    <>
+    <div>
+      <input type="button" onClick={clicked} value="Click Me"></input>
+      {
+        (count>=10) ? (
+          <h2>Hit 10!</h2>
+        ):(
+          <></>
+        )
+      }
+    </div>
     <div className="count-page">
        <div>
           <h1>{count}</h1>
           
-          {
-            (count>=10) ? (
-              <h2>Hit 10!</h2>
-            ):(
-              <></>
-            )
-          }
-
-       </div>
-       <div>
-          <input type="button" onClick={clicked} value="Click Me"></input>
        </div>
     </div>
+    </> 
   );
 }
 
