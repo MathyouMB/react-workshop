@@ -4,10 +4,10 @@ import '../style/card.scss';
 function Card(props) {
   return (
     <div className="card">
-        <img className="card-image" src="https://www.w3schools.com/howto/img_avatar.png"></img>
+        <img className="card-image" src={props.url}></img>
         <div className="container">
-            <h4><b>John Doe</b></h4>
-            <p>Architect & Engineer</p>
+            <h4><b>{props.name}</b></h4>
+            <p>{props.text}</p>
         </div>
     </div>
   );
